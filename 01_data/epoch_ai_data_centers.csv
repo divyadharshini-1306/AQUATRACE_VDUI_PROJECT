@@ -1,0 +1,97 @@
+Name,Owner,Users,Meta_Site,OpenAI_User_Confidence,Country,State,City,Address,Current_Power_MW,Current_H100e
+Colossus 2,SpaceXAI,"Anthropic, Cursor, SpaceXAI",0,,United States,TN,Memphis,"5420 Tulane Rd, Memphis, TN 38109",946.0,1111672.5618999496
+Anthropic-Amazon New Carlisle,Amazon,Anthropic,0,,United States,IN,New Carlisle,"55001 Larrison Blvd, New Carlisle, IN 46552",1037.0,818428.4992420415
+Microsoft Fairwater Atlanta,Microsoft,"OpenAI, Microsoft",0,likely,United States,GA,Fayetteville,"1435 Hwy 54 W, Fayetteville, GA 30214",636.0,768768.7220818596
+Google Pryor (North),Google,Google DeepMind,0,,United States,OK,Pryor,"4581 Webb St, Pryor, OK 74361",368.0,636685.1945426983
+DayOne Nusajaya,,,0,,Malaysia,,,,473.0,583836.7862556847
+Meta Prometheus,Meta,Meta,1,,United States,OH,New Albany,"1 Community Cir, New Albany, OH 43054",471.0,536343.0015159171
+OpenAI Stargate Abilene,Oracle,OpenAI,0,confident,United States,TX,Abilene,"5502 Spinks Rd, Abilene, TX 79601",421.0,509348.1556341586
+DayOne Kempas,,,0,,Malaysia,,,"HP79+MP, 81300 Johor Bahru, Johor, Malaysia",421.691664,480638.7064173825
+Microsoft Fairwater Wisconsin,Microsoft,"OpenAI, Microsoft",0,likely,United States,WI,Mount Pleasant,"4800 90th St, Mount Pleasant, WI 53403",369.0,445679.63617988885
+Google Columbus,Google,Google DeepMind,0,,United States,OH,Columbus,"5076 S High St, Columbus, OH 43207",303.0,331985.85144012125
+Google New Albany,Google,Google DeepMind,0,,United States,OH,New Albany,"1101 Beech Rd SW, New Albany, OH 43054",333.0,323900.9600808489
+Google Mesa,Google,,0,,United States,,,,183.0,289540.17180394137
+Colossus 1,SpaceXAI,Anthropic,0,,United States,TN,Memphis,"3231 Riverport Rd, Memphis, TN 38109",340.0,275795.85649317835
+Google Council Bluffs (East),Google,Google DeepMind,0,,United States,IA,Council Bluffs,"10410 Bunge Ave, Council Bluffs, IA 51503",237.0,255684.6892369884
+CoreWeave Denton TX,CoreWeave,OpenAI,0,likely,United States,TX,Denton,"8171 Jim Christal Rd, Denton, TX 76207",262.0,252652.85497726125
+QTS Richmond 1,,,0,,United States,VA,Sandston,"6000 Technology Blvd, Sandston, VA 23150",238.0,242546.7407781708
+Bridge Data Centres MY06,ByteDance,ByteDance,0,,Malaysia,,,"Bridge Data Centres, Sedenak Tech Park, Johor, Malaysia",243.0,221051.54118241536
+Meta Rosemount,Meta,Meta,1,,United States,MN,Rosemount,"1772-2396 145th St, Rosemount, MN 55068, USA",178.0,215675.11520970188
+Amazon Madison Mega Site,Amazon,Anthropic,0,,United States,,,"Amazon Data Services Inc, Madison Mega Site Nissan Parkway and Highway 22 Canton, Mississippi Madison County",284.0,214348.14354550533
+Google Bristow,Google,Google DeepMind,0,,United States,VA,Bristow,"13001 Rollins Ford Road, Bristow, VA 20136",238.0,209860.5356240525
+Microsoft Goodyear,Microsoft,"OpenAI, Microsoft",0,likely,United States,AZ,Goodyear,"14250 W Broadway Rd, Goodyear, AZ 85338",202.0,205154.1182415361
+Meta Jeffersonville,Meta,Meta,1,,United States,IN,Jeffersonville,"500 8th St, Jeffersonville, IN 47130, USA",178.0,203132.89540171804
+Google Kansas City East,Google,,0,,United States,,,,105.0,202627.5896917635
+Meta Temple,Meta,Meta,1,,United States,TX,Temple,"2310 Eberhardt Rd, Temple, TX 76504",178.0,202472.98777125112
+AWS New Albany,Amazon,,0,,United States,,,13360 Miller Rd NW,213.0,201111.6725619
+Google Omaha,Google,Google DeepMind,0,,United States,NE,Omaha,"11110 State St, Omaha, NE 68142",237.0,198585.14401212733
+Google Lincoln,Google,,0,,United States,NE,Lincoln,"5475 Cloud Ct, Lincoln, NE 68514",141.0,197574.53259221828
+QTS Richmond 2,,,0,,United States,VA,Sandston,"6030–6070 Technology Blvd, Sandston, VA 23150",180.0,182920.66700353715
+Google The Dalles,Google,,0,,United States,,,"3500 River Rd, The Dalles, OR",154.0,175341.0813542193
+QTS Richmond 3,,,0,,United States,VA,Sandston,"3525–3543 Portugee Rd, Sandston, VA 23150",144.0,174835.77564426477
+Meta Montgomery,Meta,Meta,1,,United States,AL,Montgomery,"Co Rd 42, Montgomery, AL 36105, USA",153.0,174517.43304699342
+Meta Kuna,Meta,Meta,1,,United States,,,"601 Kuna Mora Rd,  Kuna ID 83634",152.0,173247.67205659422
+Meta Cheyenne,Meta,Meta,1,,United States,,,"Cheyenne, WY 82007, USA",152.0,172814.5528044467
+Amazon Ridgeland,Amazon,Anthropic,0,,United States,,,"1626 County Line Road Ridgeland, Mississippi",228.0,171298.6356745831
+Meta Huntsville,Meta,Meta,1,,United States,,,"5400 Prosperity Dr NW, Toney, AL",146.0,166760.9903991915
+Coreweave Helios,CoreWeave,OpenAI,0,speculative,United States,TX,Afton,"984 County Road 112, Afton, TX 79220",132.0,159551.768236855
+Microsoft Project Osmium,Microsoft,OpenAI,0,speculative,United States,IA,Cumming,"5855 SW Kerry St, Cumming, IA 50061",190.0,155634.15866599293
+Meta Eagle Mountain,Meta,Meta,1,,United States,UT,Eagle Mountain,"1275 N Community Cir, Eagle Mountain, UT 84005",133.0,151354.21930267813
+Google Midlothian,Google,,0,,United States,TX,Midlothian,"3250 Railport Parkway, Midlothian, TX 76065",103.0,143580.85118746842
+Google Storey County,Google,Google DeepMind,0,,United States,,,,161.0,133906.01313794847
+Google Lancaster,Google,,0,,United States,OH,Lancaster,"105 Whiley Rd, Lancaster, OH 43130",137.0,130368.8731682668
+Meta-QTS Hillsboro 2,Meta,Meta,1,,United States,OR,Hillsboro,"4755 NE Huffman St, Hillsboro, OR 97124",180.0,123839.0
+Google Waltham Cross,Google,Google DeepMind,0,,United Kingdom,,,"Land at Maxwell's Farm West, Great Cambridge Road, Cheshunt, EN8 8XH",88.0,123799.898938858
+VNET Bayin Ulanqab,VNET,ByteDance,0,,China,,,"Bayin, Ulanqab, China",221.0,122789.28751894896
+Google Arcola,Google,,0,,United States,VA,Sterling,"42575 Arcola Blvd, Sterling, VA 20166",77.0,108135.4219302678
+Google Red Oak,Google,,0,,United States,TX,Red Oak,"330 Austin Blvd, Red Oak, TX 75154",77.0,108135.4219302678
+Google Papillion,Google,Google DeepMind,0,,United States,,,"14651-15249 Gold Coast Rd 68138 Papillion Nebraska, USA",237.0,100555.83628094998
+Meta Gallatin,Meta,Meta,1,,United States,TN,Gallatin,"1 Meta Lp, Gallatin, TN 37066",87.0,99545.22486104092
+Meta Los Lunas,Meta,Meta,1,,United States,NM,Los Lunas,"4250 Messenger Lp, Los Lunas, NM 87031",87.0,99545.22486104092
+CoreWeave Ellendale ND,CoreWeave,OpenAI,0,speculative,United States,ND,Ellendale,"9685 87th Ave SE, Ellendale, ND 58436",68.0,93481.55634158666
+Meta Sarpy,Meta,Meta,1,,United States,NE,Springfield,"14436-14998 Fairview Rd, Springfield, NE 68059, USA",80.0,91965.63921172309
+Huawei Horinger,Huawei,,0,,China,,,"Huawei, Horinger, China",184.3,89439.11066195049
+CoreWeave Chester VA,CoreWeave,OpenAI,0,speculative,United States,,,"1401 Meadowville Technology Parkway, Chester, VA",82.0,88428.49924204143
+Oracle Batam,Oracle,Tencent,0,,Indonesia,,,,72.0,84386.05356240526
+AWS Berwick,Amazon,Anthropic,0,,United States,PA,Berwick,"1125 Electron Ave, Berwick, PA 18603",108.0,81354.21930267812
+CoreWeave Marble NC,CoreWeave,OpenAI,0,speculative,United States,NC,Marble,"155 Palmer Ln, Marble, NC 28905",65.0,78827.6907529055
+Meta Aiken,Meta,Meta,1,,United States,SC,Trenton,"7601 State Hwy 105, Trenton, SC 29847, USA",69.0,78322.38504295099
+Huawei Wuhu,Huawei,,0,,China,,,"Wuhu, China",157.0,76326.42748863062
+Core42 Lake Mariner,Core42,G42,0,,United States,NY,Barker,"7725 Lake Rd, Barker, NY 14012",58.0,71753.4108135422
+Microsoft SAT40,Microsoft,,0,,United States,TX,San Antonio,"15000 Lambda Drive, San Antonio, TX 78245",75.0,64679.13087417888
+STACK Infrastructure NVA02,,,0,,United States,VA,Manassas,"9590 Hornbaker Rd, Manassas, VA 20109",85.0,61141.99090449722
+Anthropic Lake Mariner,AI XPV Platform,Anthropic,0,,United States,NY,Barker,"7725 Lake Rd, Barker, NY 14012",42.0,58564.93178372915
+Microsoft-Nebius New Jersey,Nebius,Microsoft,0,,United States,,,"3963 S Lincoln Ave, Vineland, New Jersey",50.0,56846.89236988378
+CoreWeave Norway,CoreWeave,OpenAI,0,speculative,Norway,,,"Stølevegen 39, 4715 Øvrebø, Norway",42.0,50773.11773623042
+Nebius Mantsala,Nebius,Microsoft,0,,Finland,,,,75.0,48527.92066700354
+Southgate Melbourne,Firmus,,0,,Australia,,,,41.0,46488.12531581607
+Stream Phoenix,,,0,,United States,,,2950 S. Litchfield Road,64.0,46134.4113188479
+Microsoft SAT14,Microsoft,,0,,United States,TX,San Antonio,"3545 Wiseman Boulevard, San Antonio, TX 78251",47.0,45174.33046993431
+Vantage TX1,,,0,,United States,TX,San Antonio,"14720 Omicron Dr, San Antonio, TX 78245",32.0,38706.417382516425
+CoreWeave Dalton 1 & 2,CoreWeave,OpenAI,0,speculative,United States,,,"2205 Industrial South Rd, Dalton, GA, 30721",28.0,32238.504295098533
+Alibaba Zhangbei,Alibaba,Alibaba,0,,China,,,"Alibaba Zhangbei Yun Calculation Data Center, Zhangbei County, Zhangjiakou, Hebei, China, 076471",169.0,31884.79029813037
+Start Campus Sines Data Campus,Nscale,Microsoft,0,,Portugal,,,"Start Campus - Sustainable Data Center Services, Sines, Portugal",33.0,31834.259727134915
+xAI QTS Atlanta,SpaceXAI,SpaceXAI,0,,United States,GA,Atlanta,"1025 Jefferson Street NW, Atlanta, GA 30318",17.32971,11470.43961596766
+Nscale Keflavik,Nscale,,0,,Iceland,,,"Valhallarbraut 868, 262 Reykjanesbær, Iceland",5.11,5821.121778676099
+Anthropic Barber Lake,Cipher Mining,Anthropic,0,,United States,,,,0.0,0.0
+CoreWeave Lancaster Greenfield site,CoreWeave,OpenAI,0,speculative,United States,,,"216 Greenfield Rd, Lancaster, PA 
+",0.0,0.0
+CoreWeave Muskogee OK,CoreWeave,OpenAI,0,speculative,United States,OK,Muskogee,"1525 W 43rd St S, Muskogee, OK 74401, USA",0.0,0.0
+Crusoe Abilene Expansion,Microsoft,Microsoft,0,,United States,TX,Abilene,"5502 Spinks Rd, Abilene, TX 79601",0.0,0.0
+EcoDataCenter 2,Mistral AI,Mistral AI,0,,Sweden,,,"Kvarnsvedsvägen 420, 784 66 Borlänge, Sweden",0.0,0.0
+Envision Galaxy Ulanqab,,,0,,China,,,,0.0,0.0
+Goodnight,Google,Google DeepMind,0,,United States,TX,Claude,"10001 Lima Rd, Claude, TX 79019",0.0,0.0
+Google Cedar Rapids,Google,Google DeepMind,0,,United States,,,"5800 EDGEWOOD RD SW CEDAR RAPIDS, IA 52404",0.0,0.0
+Google Fort Wayne,Google,Google DeepMind,0,,United States,IN,Fort Wayne,"6015 Adams Center Road, Fort Wayne, IN 46806",0.0,0.0
+Meta Bowling Green,Meta,Meta,1,,United States,OH,Bowling Green,"12356 Middleton Pike, Bowling Green, OH 43402",0.0,0.0
+Meta Hyperion,Meta,Meta,1,,United States,,,"Holly Ridge, LA 71269",0.0,0.0
+Microsoft Narvik Norway,Nscale,Microsoft,0,,Norway,,,,0.0,0.0
+OpenAI Stargate Lordstown,Softbank,OpenAI,0,confident,United States,OH,Warren,"2300 Hallock Young Rd, Warren, OH 44481",0.0,0.0
+OpenAI Stargate Michigan,Oracle,OpenAI,0,confident,United States,,,,0.0,0.0
+OpenAI Stargate Milam,Softbank,OpenAI,0,confident,United States,,,,0.0,0.0
+OpenAI Stargate New Mexico,Oracle,OpenAI,0,confident,United States,,,,0.0,0.0
+OpenAI Stargate Shackelford,Oracle,OpenAI,0,confident,United States,TX,Abilene,"175 Private Road 1604, Abilene, TX 79601, Shackelford County",0.0,0.0
+OpenAI Stargate UAE,G42,OpenAI,0,confident,United Arab Emirates,,,"Nexus L&T Project Office, Al Bihouth, Al Dhafrah, Abu Dhabi, United Arab Emirates",0.0,0.0
+OpenAI Stargate Wisconsin,Oracle,OpenAI,0,confident,United States,,,,0.0,0.0
+QTS Cedar Rapids,,,0,,United States,IA,Fairfax,"6200 76th Ave SW, Fairfax, IA 52228",0.0,0.0
+QTS Eagle Mountain,Meta,Meta,1,,United States,UT,Eagle Mountain,"652 E Hyperscale Way, Eagle Mountain, UT 84013",0.0,0.0

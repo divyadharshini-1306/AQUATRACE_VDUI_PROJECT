@@ -1,0 +1,761 @@
+Name,As_Of,IT_Power_MW,Owner,Meta_Site,OpenAI_User_Confidence,Country,State,City
+AWS Berwick,2019-12-31,0.0,Amazon,0,,United States,PA,Berwick
+AWS Berwick,2020-12-31,0.0,Amazon,0,,United States,PA,Berwick
+AWS Berwick,2021-12-31,0.0,Amazon,0,,United States,PA,Berwick
+AWS Berwick,2022-12-31,0.0,Amazon,0,,United States,PA,Berwick
+AWS Berwick,2023-12-31,0.0,Amazon,0,,United States,PA,Berwick
+AWS Berwick,2024-12-31,0.0,Amazon,0,,United States,PA,Berwick
+AWS Berwick,2025-12-31,47.0,Amazon,0,,United States,PA,Berwick
+AWS Berwick,2026-10-25,108.0,Amazon,0,,United States,PA,Berwick
+AWS New Albany,2019-12-31,0.0,Amazon,0,,United States,,
+AWS New Albany,2020-12-31,0.0,Amazon,0,,United States,,
+AWS New Albany,2021-12-31,0.0,Amazon,0,,United States,,
+AWS New Albany,2022-12-31,0.0,Amazon,0,,United States,,
+AWS New Albany,2023-12-31,0.0,Amazon,0,,United States,,
+AWS New Albany,2024-12-31,113.0,Amazon,0,,United States,,
+AWS New Albany,2025-12-31,113.0,Amazon,0,,United States,,
+AWS New Albany,2026-10-25,213.0,Amazon,0,,United States,,
+Alibaba Zhangbei,2019-12-31,0.0,Alibaba,0,,China,,
+Alibaba Zhangbei,2020-12-31,0.0,Alibaba,0,,China,,
+Alibaba Zhangbei,2021-12-31,0.0,Alibaba,0,,China,,
+Alibaba Zhangbei,2022-12-31,0.0,Alibaba,0,,China,,
+Alibaba Zhangbei,2023-12-31,0.0,Alibaba,0,,China,,
+Alibaba Zhangbei,2024-12-31,0.0,Alibaba,0,,China,,
+Alibaba Zhangbei,2025-12-31,85.0,Alibaba,0,,China,,
+Alibaba Zhangbei,2026-10-25,169.0,Alibaba,0,,China,,
+Amazon Madison Mega Site,2019-12-31,0.0,Amazon,0,,United States,,
+Amazon Madison Mega Site,2020-12-31,0.0,Amazon,0,,United States,,
+Amazon Madison Mega Site,2021-12-31,0.0,Amazon,0,,United States,,
+Amazon Madison Mega Site,2022-12-31,0.0,Amazon,0,,United States,,
+Amazon Madison Mega Site,2023-12-31,0.0,Amazon,0,,United States,,
+Amazon Madison Mega Site,2024-12-31,0.0,Amazon,0,,United States,,
+Amazon Madison Mega Site,2025-12-31,284.0,Amazon,0,,United States,,
+Amazon Madison Mega Site,2026-10-25,284.0,Amazon,0,,United States,,
+Amazon Ridgeland,2019-12-31,0.0,Amazon,0,,United States,,
+Amazon Ridgeland,2020-12-31,0.0,Amazon,0,,United States,,
+Amazon Ridgeland,2021-12-31,0.0,Amazon,0,,United States,,
+Amazon Ridgeland,2022-12-31,0.0,Amazon,0,,United States,,
+Amazon Ridgeland,2023-12-31,0.0,Amazon,0,,United States,,
+Amazon Ridgeland,2024-12-31,0.0,Amazon,0,,United States,,
+Amazon Ridgeland,2025-12-31,0.0,Amazon,0,,United States,,
+Amazon Ridgeland,2026-10-25,228.0,Amazon,0,,United States,,
+Anthropic Barber Lake,2019-12-31,0.0,Cipher Mining,0,,United States,,
+Anthropic Barber Lake,2020-12-31,0.0,Cipher Mining,0,,United States,,
+Anthropic Barber Lake,2021-12-31,0.0,Cipher Mining,0,,United States,,
+Anthropic Barber Lake,2022-12-31,0.0,Cipher Mining,0,,United States,,
+Anthropic Barber Lake,2023-12-31,0.0,Cipher Mining,0,,United States,,
+Anthropic Barber Lake,2024-12-31,0.0,Cipher Mining,0,,United States,,
+Anthropic Barber Lake,2025-12-31,0.0,Cipher Mining,0,,United States,,
+Anthropic Barber Lake,2026-10-25,0.0,Cipher Mining,0,,United States,,
+Anthropic Lake Mariner,2019-12-31,0.0,AI XPV Platform,0,,United States,NY,Barker
+Anthropic Lake Mariner,2020-12-31,0.0,AI XPV Platform,0,,United States,NY,Barker
+Anthropic Lake Mariner,2021-12-31,0.0,AI XPV Platform,0,,United States,NY,Barker
+Anthropic Lake Mariner,2022-12-31,0.0,AI XPV Platform,0,,United States,NY,Barker
+Anthropic Lake Mariner,2023-12-31,0.0,AI XPV Platform,0,,United States,NY,Barker
+Anthropic Lake Mariner,2024-12-31,0.0,AI XPV Platform,0,,United States,NY,Barker
+Anthropic Lake Mariner,2025-12-31,0.0,AI XPV Platform,0,,United States,NY,Barker
+Anthropic Lake Mariner,2026-10-25,42.0,AI XPV Platform,0,,United States,NY,Barker
+Anthropic-Amazon New Carlisle,2019-12-31,0.0,Amazon,0,,United States,IN,New Carlisle
+Anthropic-Amazon New Carlisle,2020-12-31,0.0,Amazon,0,,United States,IN,New Carlisle
+Anthropic-Amazon New Carlisle,2021-12-31,0.0,Amazon,0,,United States,IN,New Carlisle
+Anthropic-Amazon New Carlisle,2022-12-31,0.0,Amazon,0,,United States,IN,New Carlisle
+Anthropic-Amazon New Carlisle,2023-12-31,0.0,Amazon,0,,United States,IN,New Carlisle
+Anthropic-Amazon New Carlisle,2024-12-31,0.0,Amazon,0,,United States,IN,New Carlisle
+Anthropic-Amazon New Carlisle,2025-12-31,626.0,Amazon,0,,United States,IN,New Carlisle
+Anthropic-Amazon New Carlisle,2026-10-25,1037.0,Amazon,0,,United States,IN,New Carlisle
+Bridge Data Centres MY06,2019-12-31,0.0,ByteDance,0,,Malaysia,,
+Bridge Data Centres MY06,2020-12-31,0.0,ByteDance,0,,Malaysia,,
+Bridge Data Centres MY06,2021-12-31,0.0,ByteDance,0,,Malaysia,,
+Bridge Data Centres MY06,2022-12-31,19.0,ByteDance,0,,Malaysia,,
+Bridge Data Centres MY06,2023-12-31,61.0,ByteDance,0,,Malaysia,,
+Bridge Data Centres MY06,2024-12-31,114.0,ByteDance,0,,Malaysia,,
+Bridge Data Centres MY06,2025-12-31,243.0,ByteDance,0,,Malaysia,,
+Bridge Data Centres MY06,2026-10-25,243.0,ByteDance,0,,Malaysia,,
+Colossus 1,2019-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 1,2020-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 1,2021-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 1,2022-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 1,2023-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 1,2024-12-31,139.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 1,2025-12-31,340.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 1,2026-10-25,340.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 2,2019-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 2,2020-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 2,2021-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 2,2022-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 2,2023-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 2,2024-12-31,0.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 2,2025-12-31,239.0,SpaceXAI,0,,United States,TN,Memphis
+Colossus 2,2026-10-25,946.0,SpaceXAI,0,,United States,TN,Memphis
+Core42 Lake Mariner,2019-12-31,0.0,Core42,0,,United States,NY,Barker
+Core42 Lake Mariner,2020-12-31,0.0,Core42,0,,United States,NY,Barker
+Core42 Lake Mariner,2021-12-31,0.0,Core42,0,,United States,NY,Barker
+Core42 Lake Mariner,2022-12-31,0.0,Core42,0,,United States,NY,Barker
+Core42 Lake Mariner,2023-12-31,0.0,Core42,0,,United States,NY,Barker
+Core42 Lake Mariner,2024-12-31,0.0,Core42,0,,United States,NY,Barker
+Core42 Lake Mariner,2025-12-31,16.0,Core42,0,,United States,NY,Barker
+Core42 Lake Mariner,2026-10-25,58.0,Core42,0,,United States,NY,Barker
+CoreWeave Chester VA,2019-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Chester VA,2020-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Chester VA,2021-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Chester VA,2022-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Chester VA,2023-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Chester VA,2024-12-31,27.0,CoreWeave,0,speculative,United States,,
+CoreWeave Chester VA,2025-12-31,27.0,CoreWeave,0,speculative,United States,,
+CoreWeave Chester VA,2026-10-25,82.0,CoreWeave,0,speculative,United States,,
+CoreWeave Dalton 1 & 2,2019-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Dalton 1 & 2,2020-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Dalton 1 & 2,2021-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Dalton 1 & 2,2022-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Dalton 1 & 2,2023-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Dalton 1 & 2,2024-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Dalton 1 & 2,2025-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Dalton 1 & 2,2026-10-25,28.0,CoreWeave,0,speculative,United States,,
+CoreWeave Denton TX,2019-12-31,0.0,CoreWeave,0,likely,United States,TX,Denton
+CoreWeave Denton TX,2020-12-31,0.0,CoreWeave,0,likely,United States,TX,Denton
+CoreWeave Denton TX,2021-12-31,0.0,CoreWeave,0,likely,United States,TX,Denton
+CoreWeave Denton TX,2022-12-31,0.0,CoreWeave,0,likely,United States,TX,Denton
+CoreWeave Denton TX,2023-12-31,0.0,CoreWeave,0,likely,United States,TX,Denton
+CoreWeave Denton TX,2024-12-31,0.0,CoreWeave,0,likely,United States,TX,Denton
+CoreWeave Denton TX,2025-12-31,67.0,CoreWeave,0,likely,United States,TX,Denton
+CoreWeave Denton TX,2026-10-25,262.0,CoreWeave,0,likely,United States,TX,Denton
+CoreWeave Ellendale ND,2019-12-31,0.0,CoreWeave,0,speculative,United States,ND,Ellendale
+CoreWeave Ellendale ND,2020-12-31,0.0,CoreWeave,0,speculative,United States,ND,Ellendale
+CoreWeave Ellendale ND,2021-12-31,0.0,CoreWeave,0,speculative,United States,ND,Ellendale
+CoreWeave Ellendale ND,2022-12-31,0.0,CoreWeave,0,speculative,United States,ND,Ellendale
+CoreWeave Ellendale ND,2023-12-31,0.0,CoreWeave,0,speculative,United States,ND,Ellendale
+CoreWeave Ellendale ND,2024-12-31,0.0,CoreWeave,0,speculative,United States,ND,Ellendale
+CoreWeave Ellendale ND,2025-12-31,68.0,CoreWeave,0,speculative,United States,ND,Ellendale
+CoreWeave Ellendale ND,2026-10-25,68.0,CoreWeave,0,speculative,United States,ND,Ellendale
+CoreWeave Lancaster Greenfield site,2019-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Lancaster Greenfield site,2020-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Lancaster Greenfield site,2021-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Lancaster Greenfield site,2022-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Lancaster Greenfield site,2023-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Lancaster Greenfield site,2024-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Lancaster Greenfield site,2025-12-31,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Lancaster Greenfield site,2026-10-25,0.0,CoreWeave,0,speculative,United States,,
+CoreWeave Marble NC,2019-12-31,0.0,CoreWeave,0,speculative,United States,NC,Marble
+CoreWeave Marble NC,2020-12-31,0.0,CoreWeave,0,speculative,United States,NC,Marble
+CoreWeave Marble NC,2021-12-31,0.0,CoreWeave,0,speculative,United States,NC,Marble
+CoreWeave Marble NC,2022-12-31,0.0,CoreWeave,0,speculative,United States,NC,Marble
+CoreWeave Marble NC,2023-12-31,0.0,CoreWeave,0,speculative,United States,NC,Marble
+CoreWeave Marble NC,2024-12-31,0.0,CoreWeave,0,speculative,United States,NC,Marble
+CoreWeave Marble NC,2025-12-31,0.0,CoreWeave,0,speculative,United States,NC,Marble
+CoreWeave Marble NC,2026-10-25,65.0,CoreWeave,0,speculative,United States,NC,Marble
+CoreWeave Muskogee OK,2019-12-31,0.0,CoreWeave,0,speculative,United States,OK,Muskogee
+CoreWeave Muskogee OK,2020-12-31,0.0,CoreWeave,0,speculative,United States,OK,Muskogee
+CoreWeave Muskogee OK,2021-12-31,0.0,CoreWeave,0,speculative,United States,OK,Muskogee
+CoreWeave Muskogee OK,2022-12-31,0.0,CoreWeave,0,speculative,United States,OK,Muskogee
+CoreWeave Muskogee OK,2023-12-31,0.0,CoreWeave,0,speculative,United States,OK,Muskogee
+CoreWeave Muskogee OK,2024-12-31,0.0,CoreWeave,0,speculative,United States,OK,Muskogee
+CoreWeave Muskogee OK,2025-12-31,0.0,CoreWeave,0,speculative,United States,OK,Muskogee
+CoreWeave Muskogee OK,2026-10-25,0.0,CoreWeave,0,speculative,United States,OK,Muskogee
+CoreWeave Norway,2019-12-31,0.0,CoreWeave,0,speculative,Norway,,
+CoreWeave Norway,2020-12-31,0.0,CoreWeave,0,speculative,Norway,,
+CoreWeave Norway,2021-12-31,0.0,CoreWeave,0,speculative,Norway,,
+CoreWeave Norway,2022-12-31,0.0,CoreWeave,0,speculative,Norway,,
+CoreWeave Norway,2023-12-31,0.0,CoreWeave,0,speculative,Norway,,
+CoreWeave Norway,2024-12-31,0.0,CoreWeave,0,speculative,Norway,,
+CoreWeave Norway,2025-12-31,42.0,CoreWeave,0,speculative,Norway,,
+CoreWeave Norway,2026-10-25,42.0,CoreWeave,0,speculative,Norway,,
+Coreweave Helios,2019-12-31,0.0,CoreWeave,0,speculative,United States,TX,Afton
+Coreweave Helios,2020-12-31,0.0,CoreWeave,0,speculative,United States,TX,Afton
+Coreweave Helios,2021-12-31,0.0,CoreWeave,0,speculative,United States,TX,Afton
+Coreweave Helios,2022-12-31,0.0,CoreWeave,0,speculative,United States,TX,Afton
+Coreweave Helios,2023-12-31,0.0,CoreWeave,0,speculative,United States,TX,Afton
+Coreweave Helios,2024-12-31,0.0,CoreWeave,0,speculative,United States,TX,Afton
+Coreweave Helios,2025-12-31,0.0,CoreWeave,0,speculative,United States,TX,Afton
+Coreweave Helios,2026-10-25,132.0,CoreWeave,0,speculative,United States,TX,Afton
+Crusoe Abilene Expansion,2019-12-31,0.0,Microsoft,0,,United States,TX,Abilene
+Crusoe Abilene Expansion,2020-12-31,0.0,Microsoft,0,,United States,TX,Abilene
+Crusoe Abilene Expansion,2021-12-31,0.0,Microsoft,0,,United States,TX,Abilene
+Crusoe Abilene Expansion,2022-12-31,0.0,Microsoft,0,,United States,TX,Abilene
+Crusoe Abilene Expansion,2023-12-31,0.0,Microsoft,0,,United States,TX,Abilene
+Crusoe Abilene Expansion,2024-12-31,0.0,Microsoft,0,,United States,TX,Abilene
+Crusoe Abilene Expansion,2025-12-31,0.0,Microsoft,0,,United States,TX,Abilene
+Crusoe Abilene Expansion,2026-10-25,0.0,Microsoft,0,,United States,TX,Abilene
+DayOne Kempas,2019-12-31,0.0,,0,,Malaysia,,
+DayOne Kempas,2020-12-31,0.0,,0,,Malaysia,,
+DayOne Kempas,2021-12-31,0.0,,0,,Malaysia,,
+DayOne Kempas,2022-12-31,0.0,,0,,Malaysia,,
+DayOne Kempas,2023-12-31,0.0,,0,,Malaysia,,
+DayOne Kempas,2024-12-31,0.0,,0,,Malaysia,,
+DayOne Kempas,2025-12-31,0.0,,0,,Malaysia,,
+DayOne Kempas,2026-10-25,421.691664,,0,,Malaysia,,
+DayOne Nusajaya,2019-12-31,0.0,,0,,Malaysia,,
+DayOne Nusajaya,2020-12-31,0.0,,0,,Malaysia,,
+DayOne Nusajaya,2021-12-31,0.0,,0,,Malaysia,,
+DayOne Nusajaya,2022-12-31,0.0,,0,,Malaysia,,
+DayOne Nusajaya,2023-12-31,0.0,,0,,Malaysia,,
+DayOne Nusajaya,2024-12-31,50.0,,0,,Malaysia,,
+DayOne Nusajaya,2025-12-31,50.0,,0,,Malaysia,,
+DayOne Nusajaya,2026-10-25,473.0,,0,,Malaysia,,
+EcoDataCenter 2,2019-12-31,0.0,Mistral AI,0,,Sweden,,
+EcoDataCenter 2,2020-12-31,0.0,Mistral AI,0,,Sweden,,
+EcoDataCenter 2,2021-12-31,0.0,Mistral AI,0,,Sweden,,
+EcoDataCenter 2,2022-12-31,0.0,Mistral AI,0,,Sweden,,
+EcoDataCenter 2,2023-12-31,0.0,Mistral AI,0,,Sweden,,
+EcoDataCenter 2,2024-12-31,0.0,Mistral AI,0,,Sweden,,
+EcoDataCenter 2,2025-12-31,0.0,Mistral AI,0,,Sweden,,
+EcoDataCenter 2,2026-10-25,0.0,Mistral AI,0,,Sweden,,
+Envision Galaxy Ulanqab,2019-12-31,0.0,,0,,China,,
+Envision Galaxy Ulanqab,2020-12-31,0.0,,0,,China,,
+Envision Galaxy Ulanqab,2021-12-31,0.0,,0,,China,,
+Envision Galaxy Ulanqab,2022-12-31,0.0,,0,,China,,
+Envision Galaxy Ulanqab,2023-12-31,0.0,,0,,China,,
+Envision Galaxy Ulanqab,2024-12-31,0.0,,0,,China,,
+Envision Galaxy Ulanqab,2025-12-31,0.0,,0,,China,,
+Envision Galaxy Ulanqab,2026-10-25,0.0,,0,,China,,
+Goodnight,2019-12-31,0.0,Google,0,,United States,TX,Claude
+Goodnight,2020-12-31,0.0,Google,0,,United States,TX,Claude
+Goodnight,2021-12-31,0.0,Google,0,,United States,TX,Claude
+Goodnight,2022-12-31,0.0,Google,0,,United States,TX,Claude
+Goodnight,2023-12-31,0.0,Google,0,,United States,TX,Claude
+Goodnight,2024-12-31,0.0,Google,0,,United States,TX,Claude
+Goodnight,2025-12-31,0.0,Google,0,,United States,TX,Claude
+Goodnight,2026-10-25,0.0,Google,0,,United States,TX,Claude
+Google Arcola,2019-12-31,0.0,Google,0,,United States,VA,Sterling
+Google Arcola,2020-12-31,0.0,Google,0,,United States,VA,Sterling
+Google Arcola,2021-12-31,0.0,Google,0,,United States,VA,Sterling
+Google Arcola,2022-12-31,0.0,Google,0,,United States,VA,Sterling
+Google Arcola,2023-12-31,0.0,Google,0,,United States,VA,Sterling
+Google Arcola,2024-12-31,0.0,Google,0,,United States,VA,Sterling
+Google Arcola,2025-12-31,0.0,Google,0,,United States,VA,Sterling
+Google Arcola,2026-10-25,77.0,Google,0,,United States,VA,Sterling
+Google Bristow,2019-12-31,0.0,Google,0,,United States,VA,Bristow
+Google Bristow,2020-12-31,0.0,Google,0,,United States,VA,Bristow
+Google Bristow,2021-12-31,0.0,Google,0,,United States,VA,Bristow
+Google Bristow,2022-12-31,0.0,Google,0,,United States,VA,Bristow
+Google Bristow,2023-12-31,0.0,Google,0,,United States,VA,Bristow
+Google Bristow,2024-12-31,87.0,Google,0,,United States,VA,Bristow
+Google Bristow,2025-12-31,174.0,Google,0,,United States,VA,Bristow
+Google Bristow,2026-10-25,238.0,Google,0,,United States,VA,Bristow
+Google Cedar Rapids,2019-12-31,0.0,Google,0,,United States,,
+Google Cedar Rapids,2020-12-31,0.0,Google,0,,United States,,
+Google Cedar Rapids,2021-12-31,0.0,Google,0,,United States,,
+Google Cedar Rapids,2022-12-31,0.0,Google,0,,United States,,
+Google Cedar Rapids,2023-12-31,0.0,Google,0,,United States,,
+Google Cedar Rapids,2024-12-31,0.0,Google,0,,United States,,
+Google Cedar Rapids,2025-12-31,0.0,Google,0,,United States,,
+Google Cedar Rapids,2026-10-25,0.0,Google,0,,United States,,
+Google Columbus,2019-12-31,0.0,Google,0,,United States,OH,Columbus
+Google Columbus,2020-12-31,0.0,Google,0,,United States,OH,Columbus
+Google Columbus,2021-12-31,0.0,Google,0,,United States,OH,Columbus
+Google Columbus,2022-12-31,0.0,Google,0,,United States,OH,Columbus
+Google Columbus,2023-12-31,0.0,Google,0,,United States,OH,Columbus
+Google Columbus,2024-12-31,65.0,Google,0,,United States,OH,Columbus
+Google Columbus,2025-12-31,216.0,Google,0,,United States,OH,Columbus
+Google Columbus,2026-10-25,303.0,Google,0,,United States,OH,Columbus
+Google Council Bluffs (East),2019-12-31,0.0,Google,0,,United States,IA,Council Bluffs
+Google Council Bluffs (East),2020-12-31,0.0,Google,0,,United States,IA,Council Bluffs
+Google Council Bluffs (East),2021-12-31,0.0,Google,0,,United States,IA,Council Bluffs
+Google Council Bluffs (East),2022-12-31,0.0,Google,0,,United States,IA,Council Bluffs
+Google Council Bluffs (East),2023-12-31,0.0,Google,0,,United States,IA,Council Bluffs
+Google Council Bluffs (East),2024-12-31,79.0,Google,0,,United States,IA,Council Bluffs
+Google Council Bluffs (East),2025-12-31,158.0,Google,0,,United States,IA,Council Bluffs
+Google Council Bluffs (East),2026-10-25,237.0,Google,0,,United States,IA,Council Bluffs
+Google Fort Wayne,2019-12-31,0.0,Google,0,,United States,IN,Fort Wayne
+Google Fort Wayne,2020-12-31,0.0,Google,0,,United States,IN,Fort Wayne
+Google Fort Wayne,2021-12-31,0.0,Google,0,,United States,IN,Fort Wayne
+Google Fort Wayne,2022-12-31,0.0,Google,0,,United States,IN,Fort Wayne
+Google Fort Wayne,2023-12-31,0.0,Google,0,,United States,IN,Fort Wayne
+Google Fort Wayne,2024-12-31,0.0,Google,0,,United States,IN,Fort Wayne
+Google Fort Wayne,2025-12-31,0.0,Google,0,,United States,IN,Fort Wayne
+Google Fort Wayne,2026-10-25,0.0,Google,0,,United States,IN,Fort Wayne
+Google Kansas City East,2019-12-31,0.0,Google,0,,United States,,
+Google Kansas City East,2020-12-31,0.0,Google,0,,United States,,
+Google Kansas City East,2021-12-31,0.0,Google,0,,United States,,
+Google Kansas City East,2022-12-31,0.0,Google,0,,United States,,
+Google Kansas City East,2023-12-31,0.0,Google,0,,United States,,
+Google Kansas City East,2024-12-31,0.0,Google,0,,United States,,
+Google Kansas City East,2025-12-31,0.0,Google,0,,United States,,
+Google Kansas City East,2026-10-25,105.0,Google,0,,United States,,
+Google Lancaster,2019-12-31,0.0,Google,0,,United States,OH,Lancaster
+Google Lancaster,2020-12-31,0.0,Google,0,,United States,OH,Lancaster
+Google Lancaster,2021-12-31,0.0,Google,0,,United States,OH,Lancaster
+Google Lancaster,2022-12-31,0.0,Google,0,,United States,OH,Lancaster
+Google Lancaster,2023-12-31,0.0,Google,0,,United States,OH,Lancaster
+Google Lancaster,2024-12-31,68.0,Google,0,,United States,OH,Lancaster
+Google Lancaster,2025-12-31,137.0,Google,0,,United States,OH,Lancaster
+Google Lancaster,2026-10-25,137.0,Google,0,,United States,OH,Lancaster
+Google Lincoln,2019-12-31,0.0,Google,0,,United States,NE,Lincoln
+Google Lincoln,2020-12-31,0.0,Google,0,,United States,NE,Lincoln
+Google Lincoln,2021-12-31,0.0,Google,0,,United States,NE,Lincoln
+Google Lincoln,2022-12-31,0.0,Google,0,,United States,NE,Lincoln
+Google Lincoln,2023-12-31,0.0,Google,0,,United States,NE,Lincoln
+Google Lincoln,2024-12-31,0.0,Google,0,,United States,NE,Lincoln
+Google Lincoln,2025-12-31,0.0,Google,0,,United States,NE,Lincoln
+Google Lincoln,2026-10-25,141.0,Google,0,,United States,NE,Lincoln
+Google Mesa,2019-12-31,0.0,Google,0,,United States,,
+Google Mesa,2020-12-31,0.0,Google,0,,United States,,
+Google Mesa,2021-12-31,0.0,Google,0,,United States,,
+Google Mesa,2022-12-31,0.0,Google,0,,United States,,
+Google Mesa,2023-12-31,0.0,Google,0,,United States,,
+Google Mesa,2024-12-31,0.0,Google,0,,United States,,
+Google Mesa,2025-12-31,90.0,Google,0,,United States,,
+Google Mesa,2026-10-25,183.0,Google,0,,United States,,
+Google Midlothian,2019-12-31,0.0,Google,0,,United States,TX,Midlothian
+Google Midlothian,2020-12-31,0.0,Google,0,,United States,TX,Midlothian
+Google Midlothian,2021-12-31,0.0,Google,0,,United States,TX,Midlothian
+Google Midlothian,2022-12-31,0.0,Google,0,,United States,TX,Midlothian
+Google Midlothian,2023-12-31,0.0,Google,0,,United States,TX,Midlothian
+Google Midlothian,2024-12-31,0.0,Google,0,,United States,TX,Midlothian
+Google Midlothian,2025-12-31,0.0,Google,0,,United States,TX,Midlothian
+Google Midlothian,2026-10-25,103.0,Google,0,,United States,TX,Midlothian
+Google New Albany,2019-12-31,0.0,Google,0,,United States,OH,New Albany
+Google New Albany,2020-12-31,0.0,Google,0,,United States,OH,New Albany
+Google New Albany,2021-12-31,0.0,Google,0,,United States,OH,New Albany
+Google New Albany,2022-12-31,0.0,Google,0,,United States,OH,New Albany
+Google New Albany,2023-12-31,0.0,Google,0,,United States,OH,New Albany
+Google New Albany,2024-12-31,144.0,Google,0,,United States,OH,New Albany
+Google New Albany,2025-12-31,333.0,Google,0,,United States,OH,New Albany
+Google New Albany,2026-10-25,333.0,Google,0,,United States,OH,New Albany
+Google Omaha,2019-12-31,0.0,Google,0,,United States,NE,Omaha
+Google Omaha,2020-12-31,0.0,Google,0,,United States,NE,Omaha
+Google Omaha,2021-12-31,0.0,Google,0,,United States,NE,Omaha
+Google Omaha,2022-12-31,0.0,Google,0,,United States,NE,Omaha
+Google Omaha,2023-12-31,0.0,Google,0,,United States,NE,Omaha
+Google Omaha,2024-12-31,158.0,Google,0,,United States,NE,Omaha
+Google Omaha,2025-12-31,158.0,Google,0,,United States,NE,Omaha
+Google Omaha,2026-10-25,237.0,Google,0,,United States,NE,Omaha
+Google Papillion,2019-12-31,0.0,Google,0,,United States,,
+Google Papillion,2020-12-31,0.0,Google,0,,United States,,
+Google Papillion,2021-12-31,0.0,Google,0,,United States,,
+Google Papillion,2022-12-31,0.0,Google,0,,United States,,
+Google Papillion,2023-12-31,79.0,Google,0,,United States,,
+Google Papillion,2024-12-31,237.0,Google,0,,United States,,
+Google Papillion,2025-12-31,237.0,Google,0,,United States,,
+Google Papillion,2026-10-25,237.0,Google,0,,United States,,
+Google Pryor (North),2019-12-31,0.0,Google,0,,United States,OK,Pryor
+Google Pryor (North),2020-12-31,0.0,Google,0,,United States,OK,Pryor
+Google Pryor (North),2021-12-31,0.0,Google,0,,United States,OK,Pryor
+Google Pryor (North),2022-12-31,0.0,Google,0,,United States,OK,Pryor
+Google Pryor (North),2023-12-31,0.0,Google,0,,United States,OK,Pryor
+Google Pryor (North),2024-12-31,53.0,Google,0,,United States,OK,Pryor
+Google Pryor (North),2025-12-31,53.0,Google,0,,United States,OK,Pryor
+Google Pryor (North),2026-10-25,368.0,Google,0,,United States,OK,Pryor
+Google Red Oak,2019-12-31,0.0,Google,0,,United States,TX,Red Oak
+Google Red Oak,2020-12-31,0.0,Google,0,,United States,TX,Red Oak
+Google Red Oak,2021-12-31,0.0,Google,0,,United States,TX,Red Oak
+Google Red Oak,2022-12-31,0.0,Google,0,,United States,TX,Red Oak
+Google Red Oak,2023-12-31,0.0,Google,0,,United States,TX,Red Oak
+Google Red Oak,2024-12-31,0.0,Google,0,,United States,TX,Red Oak
+Google Red Oak,2025-12-31,77.0,Google,0,,United States,TX,Red Oak
+Google Red Oak,2026-10-25,77.0,Google,0,,United States,TX,Red Oak
+Google Storey County,2019-12-31,0.0,Google,0,,United States,,
+Google Storey County,2020-12-31,0.0,Google,0,,United States,,
+Google Storey County,2021-12-31,0.0,Google,0,,United States,,
+Google Storey County,2022-12-31,0.0,Google,0,,United States,,
+Google Storey County,2023-12-31,81.0,Google,0,,United States,,
+Google Storey County,2024-12-31,81.0,Google,0,,United States,,
+Google Storey County,2025-12-31,161.0,Google,0,,United States,,
+Google Storey County,2026-10-25,161.0,Google,0,,United States,,
+Google The Dalles,2019-12-31,0.0,Google,0,,United States,,
+Google The Dalles,2020-12-31,0.0,Google,0,,United States,,
+Google The Dalles,2021-12-31,0.0,Google,0,,United States,,
+Google The Dalles,2022-12-31,0.0,Google,0,,United States,,
+Google The Dalles,2023-12-31,0.0,Google,0,,United States,,
+Google The Dalles,2024-12-31,0.0,Google,0,,United States,,
+Google The Dalles,2025-12-31,77.0,Google,0,,United States,,
+Google The Dalles,2026-10-25,154.0,Google,0,,United States,,
+Google Waltham Cross,2019-12-31,0.0,Google,0,,United Kingdom,,
+Google Waltham Cross,2020-12-31,0.0,Google,0,,United Kingdom,,
+Google Waltham Cross,2021-12-31,0.0,Google,0,,United Kingdom,,
+Google Waltham Cross,2022-12-31,0.0,Google,0,,United Kingdom,,
+Google Waltham Cross,2023-12-31,0.0,Google,0,,United Kingdom,,
+Google Waltham Cross,2024-12-31,0.0,Google,0,,United Kingdom,,
+Google Waltham Cross,2025-12-31,88.0,Google,0,,United Kingdom,,
+Google Waltham Cross,2026-10-25,88.0,Google,0,,United Kingdom,,
+Huawei Horinger,2019-12-31,0.0,Huawei,0,,China,,
+Huawei Horinger,2020-12-31,0.0,Huawei,0,,China,,
+Huawei Horinger,2021-12-31,0.0,Huawei,0,,China,,
+Huawei Horinger,2022-12-31,0.0,Huawei,0,,China,,
+Huawei Horinger,2023-12-31,0.0,Huawei,0,,China,,
+Huawei Horinger,2024-12-31,0.0,Huawei,0,,China,,
+Huawei Horinger,2025-12-31,74.0,Huawei,0,,China,,
+Huawei Horinger,2026-10-25,184.3,Huawei,0,,China,,
+Huawei Wuhu,2019-12-31,0.0,Huawei,0,,China,,
+Huawei Wuhu,2020-12-31,0.0,Huawei,0,,China,,
+Huawei Wuhu,2021-12-31,0.0,Huawei,0,,China,,
+Huawei Wuhu,2022-12-31,0.0,Huawei,0,,China,,
+Huawei Wuhu,2023-12-31,0.0,Huawei,0,,China,,
+Huawei Wuhu,2024-12-31,0.0,Huawei,0,,China,,
+Huawei Wuhu,2025-12-31,157.0,Huawei,0,,China,,
+Huawei Wuhu,2026-10-25,157.0,Huawei,0,,China,,
+Meta Aiken,2019-12-31,0.0,Meta,1,,United States,SC,Trenton
+Meta Aiken,2020-12-31,0.0,Meta,1,,United States,SC,Trenton
+Meta Aiken,2021-12-31,0.0,Meta,1,,United States,SC,Trenton
+Meta Aiken,2022-12-31,0.0,Meta,1,,United States,SC,Trenton
+Meta Aiken,2023-12-31,0.0,Meta,1,,United States,SC,Trenton
+Meta Aiken,2024-12-31,0.0,Meta,1,,United States,SC,Trenton
+Meta Aiken,2025-12-31,0.0,Meta,1,,United States,SC,Trenton
+Meta Aiken,2026-10-25,69.0,Meta,1,,United States,SC,Trenton
+Meta Bowling Green,2019-12-31,0.0,Meta,1,,United States,OH,Bowling Green
+Meta Bowling Green,2020-12-31,0.0,Meta,1,,United States,OH,Bowling Green
+Meta Bowling Green,2021-12-31,0.0,Meta,1,,United States,OH,Bowling Green
+Meta Bowling Green,2022-12-31,0.0,Meta,1,,United States,OH,Bowling Green
+Meta Bowling Green,2023-12-31,0.0,Meta,1,,United States,OH,Bowling Green
+Meta Bowling Green,2024-12-31,0.0,Meta,1,,United States,OH,Bowling Green
+Meta Bowling Green,2025-12-31,0.0,Meta,1,,United States,OH,Bowling Green
+Meta Bowling Green,2026-10-25,0.0,Meta,1,,United States,OH,Bowling Green
+Meta Cheyenne,2019-12-31,0.0,Meta,1,,United States,,
+Meta Cheyenne,2020-12-31,0.0,Meta,1,,United States,,
+Meta Cheyenne,2021-12-31,0.0,Meta,1,,United States,,
+Meta Cheyenne,2022-12-31,0.0,Meta,1,,United States,,
+Meta Cheyenne,2023-12-31,0.0,Meta,1,,United States,,
+Meta Cheyenne,2024-12-31,0.0,Meta,1,,United States,,
+Meta Cheyenne,2025-12-31,0.0,Meta,1,,United States,,
+Meta Cheyenne,2026-10-25,152.0,Meta,1,,United States,,
+Meta Eagle Mountain,2019-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+Meta Eagle Mountain,2020-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+Meta Eagle Mountain,2021-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+Meta Eagle Mountain,2022-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+Meta Eagle Mountain,2023-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+Meta Eagle Mountain,2024-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+Meta Eagle Mountain,2025-12-31,133.0,Meta,1,,United States,UT,Eagle Mountain
+Meta Eagle Mountain,2026-10-25,133.0,Meta,1,,United States,UT,Eagle Mountain
+Meta Gallatin,2019-12-31,0.0,Meta,1,,United States,TN,Gallatin
+Meta Gallatin,2020-12-31,0.0,Meta,1,,United States,TN,Gallatin
+Meta Gallatin,2021-12-31,0.0,Meta,1,,United States,TN,Gallatin
+Meta Gallatin,2022-12-31,0.0,Meta,1,,United States,TN,Gallatin
+Meta Gallatin,2023-12-31,0.0,Meta,1,,United States,TN,Gallatin
+Meta Gallatin,2024-12-31,0.0,Meta,1,,United States,TN,Gallatin
+Meta Gallatin,2025-12-31,0.0,Meta,1,,United States,TN,Gallatin
+Meta Gallatin,2026-10-25,87.0,Meta,1,,United States,TN,Gallatin
+Meta Huntsville,2019-12-31,0.0,Meta,1,,United States,,
+Meta Huntsville,2020-12-31,0.0,Meta,1,,United States,,
+Meta Huntsville,2021-12-31,0.0,Meta,1,,United States,,
+Meta Huntsville,2022-12-31,0.0,Meta,1,,United States,,
+Meta Huntsville,2023-12-31,0.0,Meta,1,,United States,,
+Meta Huntsville,2024-12-31,0.0,Meta,1,,United States,,
+Meta Huntsville,2025-12-31,0.0,Meta,1,,United States,,
+Meta Huntsville,2026-10-25,146.0,Meta,1,,United States,,
+Meta Hyperion,2019-12-31,0.0,Meta,1,,United States,,
+Meta Hyperion,2020-12-31,0.0,Meta,1,,United States,,
+Meta Hyperion,2021-12-31,0.0,Meta,1,,United States,,
+Meta Hyperion,2022-12-31,0.0,Meta,1,,United States,,
+Meta Hyperion,2023-12-31,0.0,Meta,1,,United States,,
+Meta Hyperion,2024-12-31,0.0,Meta,1,,United States,,
+Meta Hyperion,2025-12-31,0.0,Meta,1,,United States,,
+Meta Hyperion,2026-10-25,0.0,Meta,1,,United States,,
+Meta Jeffersonville,2019-12-31,0.0,Meta,1,,United States,IN,Jeffersonville
+Meta Jeffersonville,2020-12-31,0.0,Meta,1,,United States,IN,Jeffersonville
+Meta Jeffersonville,2021-12-31,0.0,Meta,1,,United States,IN,Jeffersonville
+Meta Jeffersonville,2022-12-31,0.0,Meta,1,,United States,IN,Jeffersonville
+Meta Jeffersonville,2023-12-31,0.0,Meta,1,,United States,IN,Jeffersonville
+Meta Jeffersonville,2024-12-31,0.0,Meta,1,,United States,IN,Jeffersonville
+Meta Jeffersonville,2025-12-31,0.0,Meta,1,,United States,IN,Jeffersonville
+Meta Jeffersonville,2026-10-25,178.0,Meta,1,,United States,IN,Jeffersonville
+Meta Kuna,2019-12-31,0.0,Meta,1,,United States,,
+Meta Kuna,2020-12-31,0.0,Meta,1,,United States,,
+Meta Kuna,2021-12-31,0.0,Meta,1,,United States,,
+Meta Kuna,2022-12-31,0.0,Meta,1,,United States,,
+Meta Kuna,2023-12-31,0.0,Meta,1,,United States,,
+Meta Kuna,2024-12-31,0.0,Meta,1,,United States,,
+Meta Kuna,2025-12-31,0.0,Meta,1,,United States,,
+Meta Kuna,2026-10-25,152.0,Meta,1,,United States,,
+Meta Los Lunas,2019-12-31,0.0,Meta,1,,United States,NM,Los Lunas
+Meta Los Lunas,2020-12-31,0.0,Meta,1,,United States,NM,Los Lunas
+Meta Los Lunas,2021-12-31,0.0,Meta,1,,United States,NM,Los Lunas
+Meta Los Lunas,2022-12-31,0.0,Meta,1,,United States,NM,Los Lunas
+Meta Los Lunas,2023-12-31,0.0,Meta,1,,United States,NM,Los Lunas
+Meta Los Lunas,2024-12-31,0.0,Meta,1,,United States,NM,Los Lunas
+Meta Los Lunas,2025-12-31,0.0,Meta,1,,United States,NM,Los Lunas
+Meta Los Lunas,2026-10-25,87.0,Meta,1,,United States,NM,Los Lunas
+Meta Montgomery,2019-12-31,0.0,Meta,1,,United States,AL,Montgomery
+Meta Montgomery,2020-12-31,0.0,Meta,1,,United States,AL,Montgomery
+Meta Montgomery,2021-12-31,0.0,Meta,1,,United States,AL,Montgomery
+Meta Montgomery,2022-12-31,0.0,Meta,1,,United States,AL,Montgomery
+Meta Montgomery,2023-12-31,0.0,Meta,1,,United States,AL,Montgomery
+Meta Montgomery,2024-12-31,0.0,Meta,1,,United States,AL,Montgomery
+Meta Montgomery,2025-12-31,0.0,Meta,1,,United States,AL,Montgomery
+Meta Montgomery,2026-10-25,153.0,Meta,1,,United States,AL,Montgomery
+Meta Prometheus,2019-12-31,0.0,Meta,1,,United States,OH,New Albany
+Meta Prometheus,2020-12-31,0.0,Meta,1,,United States,OH,New Albany
+Meta Prometheus,2021-12-31,0.0,Meta,1,,United States,OH,New Albany
+Meta Prometheus,2022-12-31,0.0,Meta,1,,United States,OH,New Albany
+Meta Prometheus,2023-12-31,0.0,Meta,1,,United States,OH,New Albany
+Meta Prometheus,2024-12-31,0.0,Meta,1,,United States,OH,New Albany
+Meta Prometheus,2025-12-31,76.0,Meta,1,,United States,OH,New Albany
+Meta Prometheus,2026-10-25,471.0,Meta,1,,United States,OH,New Albany
+Meta Rosemount,2019-12-31,0.0,Meta,1,,United States,MN,Rosemount
+Meta Rosemount,2020-12-31,0.0,Meta,1,,United States,MN,Rosemount
+Meta Rosemount,2021-12-31,0.0,Meta,1,,United States,MN,Rosemount
+Meta Rosemount,2022-12-31,0.0,Meta,1,,United States,MN,Rosemount
+Meta Rosemount,2023-12-31,0.0,Meta,1,,United States,MN,Rosemount
+Meta Rosemount,2024-12-31,0.0,Meta,1,,United States,MN,Rosemount
+Meta Rosemount,2025-12-31,0.0,Meta,1,,United States,MN,Rosemount
+Meta Rosemount,2026-10-25,178.0,Meta,1,,United States,MN,Rosemount
+Meta Sarpy,2019-12-31,0.0,Meta,1,,United States,NE,Springfield
+Meta Sarpy,2020-12-31,0.0,Meta,1,,United States,NE,Springfield
+Meta Sarpy,2021-12-31,0.0,Meta,1,,United States,NE,Springfield
+Meta Sarpy,2022-12-31,0.0,Meta,1,,United States,NE,Springfield
+Meta Sarpy,2023-12-31,0.0,Meta,1,,United States,NE,Springfield
+Meta Sarpy,2024-12-31,0.0,Meta,1,,United States,NE,Springfield
+Meta Sarpy,2025-12-31,0.0,Meta,1,,United States,NE,Springfield
+Meta Sarpy,2026-10-25,80.0,Meta,1,,United States,NE,Springfield
+Meta Temple,2019-12-31,0.0,Meta,1,,United States,TX,Temple
+Meta Temple,2020-12-31,0.0,Meta,1,,United States,TX,Temple
+Meta Temple,2021-12-31,0.0,Meta,1,,United States,TX,Temple
+Meta Temple,2022-12-31,0.0,Meta,1,,United States,TX,Temple
+Meta Temple,2023-12-31,0.0,Meta,1,,United States,TX,Temple
+Meta Temple,2024-12-31,0.0,Meta,1,,United States,TX,Temple
+Meta Temple,2025-12-31,152.0,Meta,1,,United States,TX,Temple
+Meta Temple,2026-10-25,178.0,Meta,1,,United States,TX,Temple
+Meta-QTS Hillsboro 2,2019-12-31,0.0,Meta,1,,United States,OR,Hillsboro
+Meta-QTS Hillsboro 2,2020-12-31,0.0,Meta,1,,United States,OR,Hillsboro
+Meta-QTS Hillsboro 2,2021-12-31,0.0,Meta,1,,United States,OR,Hillsboro
+Meta-QTS Hillsboro 2,2022-12-31,0.0,Meta,1,,United States,OR,Hillsboro
+Meta-QTS Hillsboro 2,2023-12-31,45.0,Meta,1,,United States,OR,Hillsboro
+Meta-QTS Hillsboro 2,2024-12-31,180.0,Meta,1,,United States,OR,Hillsboro
+Meta-QTS Hillsboro 2,2025-12-31,180.0,Meta,1,,United States,OR,Hillsboro
+Meta-QTS Hillsboro 2,2026-10-25,180.0,Meta,1,,United States,OR,Hillsboro
+Microsoft Fairwater Atlanta,2019-12-31,0.0,Microsoft,0,likely,United States,GA,Fayetteville
+Microsoft Fairwater Atlanta,2020-12-31,0.0,Microsoft,0,likely,United States,GA,Fayetteville
+Microsoft Fairwater Atlanta,2021-12-31,0.0,Microsoft,0,likely,United States,GA,Fayetteville
+Microsoft Fairwater Atlanta,2022-12-31,0.0,Microsoft,0,likely,United States,GA,Fayetteville
+Microsoft Fairwater Atlanta,2023-12-31,0.0,Microsoft,0,likely,United States,GA,Fayetteville
+Microsoft Fairwater Atlanta,2024-12-31,0.0,Microsoft,0,likely,United States,GA,Fayetteville
+Microsoft Fairwater Atlanta,2025-12-31,321.0,Microsoft,0,likely,United States,GA,Fayetteville
+Microsoft Fairwater Atlanta,2026-10-25,636.0,Microsoft,0,likely,United States,GA,Fayetteville
+Microsoft Fairwater Wisconsin,2019-12-31,0.0,Microsoft,0,likely,United States,WI,Mount Pleasant
+Microsoft Fairwater Wisconsin,2020-12-31,0.0,Microsoft,0,likely,United States,WI,Mount Pleasant
+Microsoft Fairwater Wisconsin,2021-12-31,0.0,Microsoft,0,likely,United States,WI,Mount Pleasant
+Microsoft Fairwater Wisconsin,2022-12-31,0.0,Microsoft,0,likely,United States,WI,Mount Pleasant
+Microsoft Fairwater Wisconsin,2023-12-31,0.0,Microsoft,0,likely,United States,WI,Mount Pleasant
+Microsoft Fairwater Wisconsin,2024-12-31,0.0,Microsoft,0,likely,United States,WI,Mount Pleasant
+Microsoft Fairwater Wisconsin,2025-12-31,0.0,Microsoft,0,likely,United States,WI,Mount Pleasant
+Microsoft Fairwater Wisconsin,2026-10-25,369.0,Microsoft,0,likely,United States,WI,Mount Pleasant
+Microsoft Goodyear,2019-12-31,0.0,Microsoft,0,likely,United States,AZ,Goodyear
+Microsoft Goodyear,2020-12-31,0.0,Microsoft,0,likely,United States,AZ,Goodyear
+Microsoft Goodyear,2021-12-31,0.0,Microsoft,0,likely,United States,AZ,Goodyear
+Microsoft Goodyear,2022-12-31,0.0,Microsoft,0,likely,United States,AZ,Goodyear
+Microsoft Goodyear,2023-12-31,40.0,Microsoft,0,likely,United States,AZ,Goodyear
+Microsoft Goodyear,2024-12-31,40.0,Microsoft,0,likely,United States,AZ,Goodyear
+Microsoft Goodyear,2025-12-31,202.0,Microsoft,0,likely,United States,AZ,Goodyear
+Microsoft Goodyear,2026-10-25,202.0,Microsoft,0,likely,United States,AZ,Goodyear
+Microsoft Narvik Norway,2019-12-31,0.0,Nscale,0,,Norway,,
+Microsoft Narvik Norway,2020-12-31,0.0,Nscale,0,,Norway,,
+Microsoft Narvik Norway,2021-12-31,0.0,Nscale,0,,Norway,,
+Microsoft Narvik Norway,2022-12-31,0.0,Nscale,0,,Norway,,
+Microsoft Narvik Norway,2023-12-31,0.0,Nscale,0,,Norway,,
+Microsoft Narvik Norway,2024-12-31,0.0,Nscale,0,,Norway,,
+Microsoft Narvik Norway,2025-12-31,0.0,Nscale,0,,Norway,,
+Microsoft Narvik Norway,2026-10-25,0.0,Nscale,0,,Norway,,
+Microsoft Project Osmium,2019-12-31,0.0,Microsoft,0,speculative,United States,IA,Cumming
+Microsoft Project Osmium,2020-12-31,0.0,Microsoft,0,speculative,United States,IA,Cumming
+Microsoft Project Osmium,2021-12-31,48.0,Microsoft,0,speculative,United States,IA,Cumming
+Microsoft Project Osmium,2022-12-31,48.0,Microsoft,0,speculative,United States,IA,Cumming
+Microsoft Project Osmium,2023-12-31,95.0,Microsoft,0,speculative,United States,IA,Cumming
+Microsoft Project Osmium,2024-12-31,95.0,Microsoft,0,speculative,United States,IA,Cumming
+Microsoft Project Osmium,2025-12-31,190.0,Microsoft,0,speculative,United States,IA,Cumming
+Microsoft Project Osmium,2026-10-25,190.0,Microsoft,0,speculative,United States,IA,Cumming
+Microsoft SAT14,2019-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT14,2020-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT14,2021-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT14,2022-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT14,2023-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT14,2024-12-31,19.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT14,2025-12-31,19.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT14,2026-10-25,47.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT40,2019-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT40,2020-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT40,2021-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT40,2022-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT40,2023-12-31,0.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT40,2024-12-31,47.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT40,2025-12-31,75.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft SAT40,2026-10-25,75.0,Microsoft,0,,United States,TX,San Antonio
+Microsoft-Nebius New Jersey,2019-12-31,0.0,Nebius,0,,United States,,
+Microsoft-Nebius New Jersey,2020-12-31,0.0,Nebius,0,,United States,,
+Microsoft-Nebius New Jersey,2021-12-31,0.0,Nebius,0,,United States,,
+Microsoft-Nebius New Jersey,2022-12-31,0.0,Nebius,0,,United States,,
+Microsoft-Nebius New Jersey,2023-12-31,0.0,Nebius,0,,United States,,
+Microsoft-Nebius New Jersey,2024-12-31,0.0,Nebius,0,,United States,,
+Microsoft-Nebius New Jersey,2025-12-31,0.0,Nebius,0,,United States,,
+Microsoft-Nebius New Jersey,2026-10-25,50.0,Nebius,0,,United States,,
+Nebius Mantsala,2019-12-31,0.0,Nebius,0,,Finland,,
+Nebius Mantsala,2020-12-31,0.0,Nebius,0,,Finland,,
+Nebius Mantsala,2021-12-31,0.0,Nebius,0,,Finland,,
+Nebius Mantsala,2022-12-31,0.0,Nebius,0,,Finland,,
+Nebius Mantsala,2023-12-31,0.0,Nebius,0,,Finland,,
+Nebius Mantsala,2024-12-31,40.0,Nebius,0,,Finland,,
+Nebius Mantsala,2025-12-31,40.0,Nebius,0,,Finland,,
+Nebius Mantsala,2026-10-25,75.0,Nebius,0,,Finland,,
+Nscale Keflavik,2019-12-31,0.0,Nscale,0,,Iceland,,
+Nscale Keflavik,2020-12-31,0.0,Nscale,0,,Iceland,,
+Nscale Keflavik,2021-12-31,0.0,Nscale,0,,Iceland,,
+Nscale Keflavik,2022-12-31,0.0,Nscale,0,,Iceland,,
+Nscale Keflavik,2023-12-31,0.0,Nscale,0,,Iceland,,
+Nscale Keflavik,2024-12-31,0.0,Nscale,0,,Iceland,,
+Nscale Keflavik,2025-12-31,0.0,Nscale,0,,Iceland,,
+Nscale Keflavik,2026-10-25,5.11,Nscale,0,,Iceland,,
+OpenAI Stargate Abilene,2019-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Abilene,2020-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Abilene,2021-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Abilene,2022-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Abilene,2023-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Abilene,2024-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Abilene,2025-12-31,211.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Abilene,2026-10-25,421.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Lordstown,2019-12-31,0.0,Softbank,0,confident,United States,OH,Warren
+OpenAI Stargate Lordstown,2020-12-31,0.0,Softbank,0,confident,United States,OH,Warren
+OpenAI Stargate Lordstown,2021-12-31,0.0,Softbank,0,confident,United States,OH,Warren
+OpenAI Stargate Lordstown,2022-12-31,0.0,Softbank,0,confident,United States,OH,Warren
+OpenAI Stargate Lordstown,2023-12-31,0.0,Softbank,0,confident,United States,OH,Warren
+OpenAI Stargate Lordstown,2024-12-31,0.0,Softbank,0,confident,United States,OH,Warren
+OpenAI Stargate Lordstown,2025-12-31,0.0,Softbank,0,confident,United States,OH,Warren
+OpenAI Stargate Lordstown,2026-10-25,0.0,Softbank,0,confident,United States,OH,Warren
+OpenAI Stargate Michigan,2019-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Michigan,2020-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Michigan,2021-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Michigan,2022-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Michigan,2023-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Michigan,2024-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Michigan,2025-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Michigan,2026-10-25,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Milam,2019-12-31,0.0,Softbank,0,confident,United States,,
+OpenAI Stargate Milam,2020-12-31,0.0,Softbank,0,confident,United States,,
+OpenAI Stargate Milam,2021-12-31,0.0,Softbank,0,confident,United States,,
+OpenAI Stargate Milam,2022-12-31,0.0,Softbank,0,confident,United States,,
+OpenAI Stargate Milam,2023-12-31,0.0,Softbank,0,confident,United States,,
+OpenAI Stargate Milam,2024-12-31,0.0,Softbank,0,confident,United States,,
+OpenAI Stargate Milam,2025-12-31,0.0,Softbank,0,confident,United States,,
+OpenAI Stargate Milam,2026-10-25,0.0,Softbank,0,confident,United States,,
+OpenAI Stargate New Mexico,2019-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate New Mexico,2020-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate New Mexico,2021-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate New Mexico,2022-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate New Mexico,2023-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate New Mexico,2024-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate New Mexico,2025-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate New Mexico,2026-10-25,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Shackelford,2019-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Shackelford,2020-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Shackelford,2021-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Shackelford,2022-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Shackelford,2023-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Shackelford,2024-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Shackelford,2025-12-31,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate Shackelford,2026-10-25,0.0,Oracle,0,confident,United States,TX,Abilene
+OpenAI Stargate UAE,2019-12-31,0.0,G42,0,confident,United Arab Emirates,,
+OpenAI Stargate UAE,2020-12-31,0.0,G42,0,confident,United Arab Emirates,,
+OpenAI Stargate UAE,2021-12-31,0.0,G42,0,confident,United Arab Emirates,,
+OpenAI Stargate UAE,2022-12-31,0.0,G42,0,confident,United Arab Emirates,,
+OpenAI Stargate UAE,2023-12-31,0.0,G42,0,confident,United Arab Emirates,,
+OpenAI Stargate UAE,2024-12-31,0.0,G42,0,confident,United Arab Emirates,,
+OpenAI Stargate UAE,2025-12-31,0.0,G42,0,confident,United Arab Emirates,,
+OpenAI Stargate UAE,2026-10-25,0.0,G42,0,confident,United Arab Emirates,,
+OpenAI Stargate Wisconsin,2019-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Wisconsin,2020-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Wisconsin,2021-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Wisconsin,2022-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Wisconsin,2023-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Wisconsin,2024-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Wisconsin,2025-12-31,0.0,Oracle,0,confident,United States,,
+OpenAI Stargate Wisconsin,2026-10-25,0.0,Oracle,0,confident,United States,,
+Oracle Batam,2019-12-31,0.0,Oracle,0,,Indonesia,,
+Oracle Batam,2020-12-31,0.0,Oracle,0,,Indonesia,,
+Oracle Batam,2021-12-31,0.0,Oracle,0,,Indonesia,,
+Oracle Batam,2022-12-31,0.0,Oracle,0,,Indonesia,,
+Oracle Batam,2023-12-31,0.0,Oracle,0,,Indonesia,,
+Oracle Batam,2024-12-31,0.0,Oracle,0,,Indonesia,,
+Oracle Batam,2025-12-31,33.0,Oracle,0,,Indonesia,,
+Oracle Batam,2026-10-25,72.0,Oracle,0,,Indonesia,,
+QTS Cedar Rapids,2019-12-31,0.0,,0,,United States,IA,Fairfax
+QTS Cedar Rapids,2020-12-31,0.0,,0,,United States,IA,Fairfax
+QTS Cedar Rapids,2021-12-31,0.0,,0,,United States,IA,Fairfax
+QTS Cedar Rapids,2022-12-31,0.0,,0,,United States,IA,Fairfax
+QTS Cedar Rapids,2023-12-31,0.0,,0,,United States,IA,Fairfax
+QTS Cedar Rapids,2024-12-31,0.0,,0,,United States,IA,Fairfax
+QTS Cedar Rapids,2025-12-31,0.0,,0,,United States,IA,Fairfax
+QTS Cedar Rapids,2026-10-25,0.0,,0,,United States,IA,Fairfax
+QTS Eagle Mountain,2019-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+QTS Eagle Mountain,2020-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+QTS Eagle Mountain,2021-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+QTS Eagle Mountain,2022-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+QTS Eagle Mountain,2023-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+QTS Eagle Mountain,2024-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+QTS Eagle Mountain,2025-12-31,0.0,Meta,1,,United States,UT,Eagle Mountain
+QTS Eagle Mountain,2026-10-25,0.0,Meta,1,,United States,UT,Eagle Mountain
+QTS Richmond 1,2019-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 1,2020-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 1,2021-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 1,2022-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 1,2023-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 1,2024-12-31,94.0,,0,,United States,VA,Sandston
+QTS Richmond 1,2025-12-31,238.0,,0,,United States,VA,Sandston
+QTS Richmond 1,2026-10-25,238.0,,0,,United States,VA,Sandston
+QTS Richmond 2,2019-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 2,2020-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 2,2021-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 2,2022-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 2,2023-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 2,2024-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 2,2025-12-31,144.0,,0,,United States,VA,Sandston
+QTS Richmond 2,2026-10-25,180.0,,0,,United States,VA,Sandston
+QTS Richmond 3,2019-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 3,2020-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 3,2021-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 3,2022-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 3,2023-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 3,2024-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 3,2025-12-31,0.0,,0,,United States,VA,Sandston
+QTS Richmond 3,2026-10-25,144.0,,0,,United States,VA,Sandston
+STACK Infrastructure NVA02,2019-12-31,0.0,,0,,United States,VA,Manassas
+STACK Infrastructure NVA02,2020-12-31,0.0,,0,,United States,VA,Manassas
+STACK Infrastructure NVA02,2021-12-31,0.0,,0,,United States,VA,Manassas
+STACK Infrastructure NVA02,2022-12-31,0.0,,0,,United States,VA,Manassas
+STACK Infrastructure NVA02,2023-12-31,0.0,,0,,United States,VA,Manassas
+STACK Infrastructure NVA02,2024-12-31,85.0,,0,,United States,VA,Manassas
+STACK Infrastructure NVA02,2025-12-31,85.0,,0,,United States,VA,Manassas
+STACK Infrastructure NVA02,2026-10-25,85.0,,0,,United States,VA,Manassas
+Southgate Melbourne,2019-12-31,0.0,Firmus,0,,Australia,,
+Southgate Melbourne,2020-12-31,0.0,Firmus,0,,Australia,,
+Southgate Melbourne,2021-12-31,0.0,Firmus,0,,Australia,,
+Southgate Melbourne,2022-12-31,0.0,Firmus,0,,Australia,,
+Southgate Melbourne,2023-12-31,0.0,Firmus,0,,Australia,,
+Southgate Melbourne,2024-12-31,0.0,Firmus,0,,Australia,,
+Southgate Melbourne,2025-12-31,0.0,Firmus,0,,Australia,,
+Southgate Melbourne,2026-10-25,41.0,Firmus,0,,Australia,,
+Start Campus Sines Data Campus,2019-12-31,0.0,Nscale,0,,Portugal,,
+Start Campus Sines Data Campus,2020-12-31,0.0,Nscale,0,,Portugal,,
+Start Campus Sines Data Campus,2021-12-31,0.0,Nscale,0,,Portugal,,
+Start Campus Sines Data Campus,2022-12-31,0.0,Nscale,0,,Portugal,,
+Start Campus Sines Data Campus,2023-12-31,0.0,Nscale,0,,Portugal,,
+Start Campus Sines Data Campus,2024-12-31,0.0,Nscale,0,,Portugal,,
+Start Campus Sines Data Campus,2025-12-31,0.0,Nscale,0,,Portugal,,
+Start Campus Sines Data Campus,2026-10-25,33.0,Nscale,0,,Portugal,,
+Stream Phoenix,2019-12-31,0.0,,0,,United States,,
+Stream Phoenix,2020-12-31,0.0,,0,,United States,,
+Stream Phoenix,2021-12-31,0.0,,0,,United States,,
+Stream Phoenix,2022-12-31,0.0,,0,,United States,,
+Stream Phoenix,2023-12-31,0.0,,0,,United States,,
+Stream Phoenix,2024-12-31,0.0,,0,,United States,,
+Stream Phoenix,2025-12-31,0.0,,0,,United States,,
+Stream Phoenix,2026-10-25,64.0,,0,,United States,,
+VNET Bayin Ulanqab,2019-12-31,0.0,VNET,0,,China,,
+VNET Bayin Ulanqab,2020-12-31,0.0,VNET,0,,China,,
+VNET Bayin Ulanqab,2021-12-31,0.0,VNET,0,,China,,
+VNET Bayin Ulanqab,2022-12-31,0.0,VNET,0,,China,,
+VNET Bayin Ulanqab,2023-12-31,0.0,VNET,0,,China,,
+VNET Bayin Ulanqab,2024-12-31,0.0,VNET,0,,China,,
+VNET Bayin Ulanqab,2025-12-31,221.0,VNET,0,,China,,
+VNET Bayin Ulanqab,2026-10-25,221.0,VNET,0,,China,,
+Vantage TX1,2019-12-31,0.0,,0,,United States,TX,San Antonio
+Vantage TX1,2020-12-31,0.0,,0,,United States,TX,San Antonio
+Vantage TX1,2021-12-31,0.0,,0,,United States,TX,San Antonio
+Vantage TX1,2022-12-31,0.0,,0,,United States,TX,San Antonio
+Vantage TX1,2023-12-31,0.0,,0,,United States,TX,San Antonio
+Vantage TX1,2024-12-31,0.0,,0,,United States,TX,San Antonio
+Vantage TX1,2025-12-31,0.0,,0,,United States,TX,San Antonio
+Vantage TX1,2026-10-25,32.0,,0,,United States,TX,San Antonio
+xAI QTS Atlanta,2019-12-31,0.0,SpaceXAI,0,,United States,GA,Atlanta
+xAI QTS Atlanta,2020-12-31,0.0,SpaceXAI,0,,United States,GA,Atlanta
+xAI QTS Atlanta,2021-12-31,0.0,SpaceXAI,0,,United States,GA,Atlanta
+xAI QTS Atlanta,2022-12-31,0.0,SpaceXAI,0,,United States,GA,Atlanta
+xAI QTS Atlanta,2023-12-31,0.0,SpaceXAI,0,,United States,GA,Atlanta
+xAI QTS Atlanta,2024-12-31,0.0,SpaceXAI,0,,United States,GA,Atlanta
+xAI QTS Atlanta,2025-12-31,17.32971,SpaceXAI,0,,United States,GA,Atlanta
+xAI QTS Atlanta,2026-10-25,17.32971,SpaceXAI,0,,United States,GA,Atlanta

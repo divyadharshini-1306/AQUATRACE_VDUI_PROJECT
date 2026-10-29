@@ -1,0 +1,10 @@
+Feature,Model_Importance,EDA_Spearman_with_Risk_Score,EDA_Variance_Explained
+Stress_Tier_Order,0.351,0.544,
+IT_Capacity_MW,0.013,0.363,
+Cooling_System,0.012,,0.207
+Ambient_Temp_C,0.006,0.376,
+PUE,0.0,0.106,
+Utilization_Pct,0.0,0.303,
+Facility_Type,0.0,,0.082
+Climate_Zone,0.0,,0.15
+AI_Workload_Share_Pct,0.0,0.17,
