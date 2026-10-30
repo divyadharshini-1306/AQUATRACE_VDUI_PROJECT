@@ -1,0 +1,8 @@
+numpy
+pandas
+scipy
+scikit-learn>=1.3
+matplotlib
+shap
+umap-learn
+# optional: xgboost

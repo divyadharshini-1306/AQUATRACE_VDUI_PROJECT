@@ -1,0 +1,6 @@
+Model,n,high_share,accuracy,majority_baseline_acc,balanced_accuracy,precision_high,recall_high,f1_high,pr_auc,pr_auc_baseline,roc_auc,brier
+Member 1 column (GroupKFold),6512.0,0.1136,0.9768,0.8864,0.928,0.9262,0.8649,0.8945,0.9729,0.1136,0.9965,0.0155
+"Member 3 OOF (StratifiedGroupKFold, gb)",6512.0,0.1136,0.9803,0.8864,0.9418,0.9322,0.8919,0.9116,0.9749,0.1136,0.9967,0.0147
+DEMO ONLY: with WUE + water use + stress weight (target leakage),6512.0,0.1136,0.9917,0.8864,0.9729,0.9777,0.9486,0.963,0.9956,0.1136,0.9994,0.0063
+Ablation: Stress_Tier_Order ONLY,6512.0,0.1136,0.9254,0.8864,0.8807,0.6317,0.823,0.7148,0.5934,0.1136,0.9517,0.0516
+Ablation: everything EXCEPT Stress_Tier_Order,6512.0,0.1136,0.8807,0.8864,0.5215,0.3471,0.0568,0.0976,0.2554,0.1136,0.757,0.0952

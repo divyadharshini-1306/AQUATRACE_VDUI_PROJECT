@@ -1,0 +1,21 @@
+
+
+# Python virtual environments
+aqua_env/
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS
+.DS_Store

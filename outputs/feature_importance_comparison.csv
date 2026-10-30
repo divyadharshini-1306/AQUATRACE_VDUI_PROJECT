@@ -1,0 +1,10 @@
+Feature,Perm_Importance_OOF,SHAP_MeanAbs,Member1_InSample_Importance,EDA_Strength,EDA_Strength_Basis,Model_Rank,EDA_Rank,Verdict,Divergence_Direction
+Stress_Tier_Order,0.8012,3.3267,0.351,0.2959,Spearman rho^2,1,1,Agree,
+Cooling_System,0.1627,0.6807,0.012,0.207,eta^2,2,2,Agree,
+IT_Capacity_MW,0.1131,0.5503,0.013,0.1318,Spearman rho^2,3,5,Partly agree,
+Ambient_Temp_C,0.0419,0.4155,0.006,0.1414,Spearman rho^2,4,4,Agree,
+Facility_Type,0.0015,0.098,0.0,0.082,eta^2,5,7,Partly agree,
+Utilization_Pct,0.001,0.0972,0.0,0.0918,Spearman rho^2,6,6,Agree,
+PUE,0.0034,0.0671,0.0,0.0112,Spearman rho^2,7,9,Partly agree,
+Climate_Zone,0.0026,0.0579,0.0,0.15,eta^2,8,3,Diverge,EDA ranks it higher
+AI_Workload_Share_Pct,-0.0001,0.0149,0.0,0.0289,Spearman rho^2,9,8,Agree,

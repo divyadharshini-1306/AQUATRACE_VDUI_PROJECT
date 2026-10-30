@@ -1,0 +1,6 @@
+Case,Facility_ID,Year,City,Actual_High,M3_Pred_Prob
+Correct High,DC-0558,2022,Jeddah,1,0.9982
+Missed High (false negative),DC-0704,2019,Netherlands,1,0.0697
+False alarm (false positive),DC-0366,2024,Chennai,0,0.9657
+Borderline,DC-0464,2024,Tokyo,1,0.5038
+Correct not-High at Extreme stress,DC-0547,2025,Moscow,0,0.4283

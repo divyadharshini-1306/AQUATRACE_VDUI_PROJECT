@@ -1,0 +1,51 @@
+
+=== STEP 1: Audit + stratified, facility-grouped out-of-fold model ===
+rows 6512, facilities 1200, High share 0.114
+                                                           Model  accuracy  majority_baseline_acc  balanced_accuracy  recall_high  precision_high  pr_auc  roc_auc
+                                    Member 1 column (GroupKFold)     0.977                  0.886              0.928        0.865           0.926   0.973    0.997
+                         Member 3 OOF (StratifiedGroupKFold, gb)     0.980                  0.886              0.942        0.892           0.932   0.975    0.997
+DEMO ONLY: with WUE + water use + stress weight (target leakage)     0.992                  0.886              0.973        0.949           0.978   0.996    0.999
+                                Ablation: Stress_Tier_Order ONLY     0.925                  0.886              0.881        0.823           0.632   0.593    0.952
+                   Ablation: everything EXCEPT Stress_Tier_Order     0.881                  0.886              0.522        0.057           0.347   0.255    0.757
+
+=== STEP 2: Explainability: SHAP, permutation importance, EDA comparison ===
+              Feature  SHAP_MeanAbs  Perm_Importance_OOF  EDA_Strength  Model_Rank  EDA_Rank      Verdict
+    Stress_Tier_Order        3.3267               0.8012        0.2959           1         1        Agree
+       Cooling_System        0.6807               0.1627        0.2070           2         2        Agree
+       IT_Capacity_MW        0.5503               0.1131        0.1318           3         5 Partly agree
+       Ambient_Temp_C        0.4155               0.0419        0.1414           4         4        Agree
+        Facility_Type        0.0980               0.0015        0.0820           5         7 Partly agree
+      Utilization_Pct        0.0972               0.0010        0.0918           6         6        Agree
+                  PUE        0.0671               0.0034        0.0112           7         9 Partly agree
+         Climate_Zone        0.0579               0.0026        0.1500           8         3      Diverge
+AI_Workload_Share_Pct        0.0149              -0.0001        0.0289           9         8        Agree
+
+=== STEP 3: PCA + UMAP/t-SNE ===
+04_member3_ai_xai/aqua_env/lib/python3.12/site-packages/umap/umap_.py:1952: UserWarning: n_jobs value 1 overridden to 1 by setting random_state. Use no seed for parallelism.
+  warn(
+
+=== STEP 4: Drift: train 2019-2023, test 2024-2025 ===
+                                           Evaluation      n  high_share  pr_auc  recall_high  precision_high  f1_high
+             OOF predictions on the same 2024-25 rows 2304.0       0.106   0.971        0.910           0.914    0.912
+                     Temporal split: all 2024-25 rows 2304.0       0.106   0.988        0.996           0.900    0.946
+Temporal split: only facilities first seen in 2024-25  250.0       0.104   0.965        1.000           0.839    0.912
+              Feature   PSI          PSI_Status
+       Cooling_System 0.006       Stable (<0.1)
+         Climate_Zone 0.001       Stable (<0.1)
+        Facility_Type 0.059       Stable (<0.1)
+       IT_Capacity_MW 0.041       Stable (<0.1)
+      Utilization_Pct 0.195 Moderate (0.1-0.25)
+AI_Workload_Share_Pct 1.806       Major (>0.25)
+       Ambient_Temp_C 0.002       Stable (<0.1)
+                  PUE 0.033       Stable (<0.1)
+    Stress_Tier_Order 0.001       Stable (<0.1)
+
+=== STEP 5: Limitations and bias ===
+              Region  n_rows  n_facilities  n_high_rows                                            status  recall  precision
+        Asia-Pacific    1348           242          261                                                OK  0.9387     0.9387
+              Europe    2270           419          124                                                OK  0.7823     0.9604
+       Latin America     189            37            0 Insufficient data (0 High rows from 0 facilities)     NaN        NaN
+Middle East & Africa     256            45          104                                                OK  0.9231     0.9697
+       North America    2449           457          251                                                OK  0.8845     0.8988
+
+Done. Outputs in 04_member3_ai_xai/outputs

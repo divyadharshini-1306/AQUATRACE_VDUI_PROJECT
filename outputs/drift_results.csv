@@ -1,0 +1,10 @@
+Feature,Type,PSI,KS_stat,KS_p,PSI_Status,Train_High_Share,Test_High_Share
+Cooling_System,categorical/ordinal,0.0061,,,Stable (<0.1),0.1179,0.1059
+Climate_Zone,categorical/ordinal,0.0013,,,Stable (<0.1),0.1179,0.1059
+Facility_Type,categorical/ordinal,0.0587,,,Stable (<0.1),0.1179,0.1059
+IT_Capacity_MW,numeric,0.0406,0.0811,0.0,Stable (<0.1),0.1179,0.1059
+Utilization_Pct,numeric,0.195,0.1717,0.0,Moderate (0.1-0.25),0.1179,0.1059
+AI_Workload_Share_Pct,numeric,1.8056,0.4827,0.0,Major (>0.25),0.1179,0.1059
+Ambient_Temp_C,numeric,0.002,0.0103,0.9967,Stable (<0.1),0.1179,0.1059
+PUE,numeric,0.0335,0.0696,0.0,Stable (<0.1),0.1179,0.1059
+Stress_Tier_Order,categorical/ordinal,0.0007,,,Stable (<0.1),0.1179,0.1059
