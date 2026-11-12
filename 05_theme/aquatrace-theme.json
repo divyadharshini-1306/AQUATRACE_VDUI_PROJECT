@@ -1,0 +1,44 @@
+{
+  "name": "AquaTrace Theme",
+  "dataColors": [
+    "#0072B2",
+    "#E69F00",
+    "#D55E00",
+    "#009E73",
+    "#CC79A7",
+    "#56B4E9",
+    "#F0E442",
+    "#000000"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1F1F1F",
+  "tableAccent": "#0072B2",
+  "good": "#0072B2",
+  "neutral": "#E69F00",
+  "bad": "#D55E00",
+  "minimum": "#0072B2",
+  "center": "#E69F00",
+  "maximum": "#D55E00",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 14,
+      "color": "#1F1F1F"
+    },
+    "header": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 12,
+      "color": "#1F1F1F"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "fontSize": 11,
+      "color": "#1F1F1F"
+    },
+    "callout": {
+      "fontFace": "Segoe UI Semibold",
+      "fontSize": 28,
+      "color": "#1F1F1F"
+    }
+  }
+}
