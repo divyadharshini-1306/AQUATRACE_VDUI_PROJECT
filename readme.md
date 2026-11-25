@@ -45,21 +45,17 @@ These come from the Python exploratory analysis in `03_eda/`.
 ## Dashboard
 
 The Power BI dashboard is in `02_pbix/`. It follows a **martini glass** structure (Segel and Heer, 2010): a guided story first (hook, build-up, insight, conclusion), then slicers for free exploration.
+<img width="1320" height="737" alt="image" src="https://github.com/user-attachments/assets/436a24ea-8183-434e-af13-4cf2fffd22f1" />
+<img width="1332" height="762" alt="image" src="https://github.com/user-attachments/assets/a2af78cf-82e9-4558-8930-c4a6f3cb91aa" />
+<img width="1310" height="742" alt="image" src="https://github.com/user-attachments/assets/d2096429-88f3-4339-8d2e-185473bebe42" />
 
-| Page | Purpose |
-| --- | --- |
-| Page 1 | Overview: KPI cards, WUE by cooling system, water use trend, risk tier by region, WUE outliers, slicers |
-| Page 2 | [ADD: e.g. map and drill-through] |
-| Page 3 | [ADD] |
-| Page 4 | [ADD: e.g. SHAP / explainable AI] |
-| Page 5 | [ADD] |
-| Page 6 | [ADD: closing recommendation page] |
 
-### How to open it
 
-- Online: [ADD LINK]
-- Locally: open the `.pbix` file in Power BI Desktop (Windows only). If you are on a Mac, use the published link or the PDF export in `02_pbix/`.
-- To apply the shared theme to a new page, go to View, then Themes, then Browse for themes, and choose `05_theme/aquatrace-theme.json`.
+
+
+
+
+
 
 ## Design and accessibility
 
@@ -71,11 +67,6 @@ The Power BI dashboard is in `02_pbix/`. It follows a **martini glass** structur
 - **Contrast:** label text is white on blue and black on orange and vermillion.
 - Review checklist: see `04_notes/accessibility-and-review-checklist.md`.
 
-## Usability test
-
-[ADD AFTER TESTING: number of participants, tasks, key findings, what we changed.]
-
-Test plan, observation sheet and findings template: `06_usability/usability-test-kit.md`.
 
 ## Limitations
 
@@ -84,7 +75,7 @@ Test plan, observation sheet and findings template: `06_usability/usability-test
 - Air-cooled sites use less water but more electricity. The dataset does not capture this trade-off.
 - SHAP values explain what the model learned, not real-world causes, because the data contains built-in rules.
 - Correlated inputs (for example cooling and temperature, or region and stress) can distort feature attributions.
-- [ADD usability test limits: small sample of classmates.]
+
 
 ## Tech stack
 
@@ -107,17 +98,6 @@ AQUATRACE_VDUI_PROJECT/
 |-- review_ppts/    Project presentation files
 `-- readme.md       Project documentation
 ```
-
-## Team
-
-| Member | Name | Role |
-| --- | --- | --- |
-| 1 | [ADD NAME] | Data and EDA lead |
-| 2 | [ADD NAME] | Geospatial and interaction lead |
-| 3 | [ADD NAME] | AI and explainable AI lead |
-| 4 | [ADD NAME] | Storytelling, design and delivery lead |
-
-Team members: M. B. Divyadharshini, Medha V, Rachel Mathew, Manasi Sabnis.
 
 **Institution:** PES University
 
